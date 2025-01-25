@@ -6,7 +6,7 @@ handle: nkarcher
 nickname: Nic
 image: karcher-nicolai.jpg
 science_names: [Karcher N]
-alumni: false
+alumni: true
 country: [de]
 
 # social

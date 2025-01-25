@@ -10,7 +10,7 @@ issue: 2
 pages: 154
 is_published: true
 image: /assets/images/papers/lancet-gastro.png
-projects: [stats]
+projects: [dysbiosis]
 tags: []
 
 # Text
@@ -18,11 +18,11 @@ fulltext: https://www.thelancet.com/journals/langas/article/PIIS2468-1253(24)003
 pdf:
 pdflink:
 pmcid: 
-preprint: https://doi.org/10.1101/2022.05.09.491139
+preprint:
 supplement:
 
 # Links
-doi: "10.1186/s13059-024-03390-9"
+doi: "10.1016/S2468-1253(24)00311-X"
 pmid: 39647502
 
 # Data and code

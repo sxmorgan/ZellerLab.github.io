@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Gut dysbiosis / disease associations"
-contributors: [nkarcher, ihmgonnet, spekel]
+contributors: [nkarcher, ihmgonnet, spekel, essex]
 handle: dysbiosis
 status: ongoing
 type: dataset

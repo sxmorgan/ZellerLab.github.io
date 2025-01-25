@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Statistical modelling and meta-analyses"
-contributors: [nkarcher, fspringer, ihmgonnet, sromano, spekel]
+contributors: [nkarcher, fspringer, ihmgonnet, sromano, spekel, essex]
 handle: stats
 status: ongoing
 type: dataset

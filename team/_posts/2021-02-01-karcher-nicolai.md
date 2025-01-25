@@ -2,6 +2,7 @@
 layout: member
 title: Nicolai Karcher
 position: Postdoctoral Researcher
+current_position: Senior Bioinformatician at EMBL
 handle: nkarcher
 nickname: Nic
 image: karcher-nicolai.jpg
